@@ -67,7 +67,9 @@ section {
 h1.price{
   color: #00a650;
 }
-
+img{
+  border-radius: 8px;
+}
 @-webkit-keyframes fadeIn {
   0% {
     top: 50%;
