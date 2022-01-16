@@ -1,4 +1,4 @@
-
+Scan with your camera to go to the app:
 
 
 
