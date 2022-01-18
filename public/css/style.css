@@ -64,8 +64,15 @@ section {
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
+h1{
+  font-size: 2.3rem;
+}
 h1.price{
   color: #00a650;
+  font-size: 2rem;
+}
+p{
+  font-family: 'Lucida Sans';
 }
 img{
   border-radius: 8px;
